@@ -1,7 +1,7 @@
 const advancedResults = (model, populate) => async (req, res, next) => {
   let query;
 
-  // copyy req.query
+  // copy req.query
   let reqQuery = { ...req.query };
 
   // fields to exclude

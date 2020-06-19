@@ -3,4 +3,4 @@ config/config.env
 
 _data/
 
-public/
+public/uploads/
